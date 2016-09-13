@@ -1,2 +1,3 @@
 # iOSToDoApp
-Simple and clean application which allows a user to create a list of to do items
+To-do list application which allows users to add and edit a list of tasks
+
